@@ -2,6 +2,5 @@ pytest
 itertools
 codecs
 os
-itertools
 collections
 logging
